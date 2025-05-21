@@ -213,8 +213,4 @@ export default function App() {
       </ReactModal>
     </Container>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1cbfc53933a7d2e3651f5ff94a663aa56ffebcc9
